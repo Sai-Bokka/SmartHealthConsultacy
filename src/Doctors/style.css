@@ -1,0 +1,14 @@
+.top{
+    margin: 10%
+}
+
+.flt{
+    float: left
+}
+
+.position{
+    position: relative;
+    width:50%;
+    margin: auto;
+   padding: 10px;
+}
